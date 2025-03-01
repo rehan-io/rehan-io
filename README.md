@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning LLM's nowadays
 - 👯 I’m looking to collaborate on solving real-time problems
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=north110)](https://github.com/LordDashMe/github-contribution-stats/)
 <!--
 **north110/north110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
