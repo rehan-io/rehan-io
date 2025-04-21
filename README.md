@@ -1,7 +1,7 @@
 ## Hi there, I'm Rehan 👋
 
-- 🔭 I’m currently working on Web Development projects
-- 🌱 I’m currently learning LLM's nowadays
+- 🔭 I’m currently working on Web Development projects trying to implement core Computer Science to real world problems
+- 🌱 I’m currently learning LLM's, RAG applications and trying to build a root computer companion bot just because...
 - 👯 I’m looking to collaborate on solving real-time problems
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rehan-io)](https://github.com/LordDashMe/github-contribution-stats/)
